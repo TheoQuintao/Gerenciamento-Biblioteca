@@ -1,0 +1,15 @@
+C:\Users\Alunos\OneDrive\Documentos\GitTheo\Gerenciamento-Biblioteca\Gerenciar-Biblioteca\bin\Debug\net8.0\Gerenciar-Biblioteca.exe
+C:\Users\Alunos\OneDrive\Documentos\GitTheo\Gerenciamento-Biblioteca\Gerenciar-Biblioteca\bin\Debug\net8.0\Gerenciar-Biblioteca.deps.json
+C:\Users\Alunos\OneDrive\Documentos\GitTheo\Gerenciamento-Biblioteca\Gerenciar-Biblioteca\bin\Debug\net8.0\Gerenciar-Biblioteca.runtimeconfig.json
+C:\Users\Alunos\OneDrive\Documentos\GitTheo\Gerenciamento-Biblioteca\Gerenciar-Biblioteca\bin\Debug\net8.0\Gerenciar-Biblioteca.dll
+C:\Users\Alunos\OneDrive\Documentos\GitTheo\Gerenciamento-Biblioteca\Gerenciar-Biblioteca\bin\Debug\net8.0\Gerenciar-Biblioteca.pdb
+C:\Users\Alunos\OneDrive\Documentos\GitTheo\Gerenciamento-Biblioteca\Gerenciar-Biblioteca\obj\Debug\net8.0\Gerenciar-Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\OneDrive\Documentos\GitTheo\Gerenciamento-Biblioteca\Gerenciar-Biblioteca\obj\Debug\net8.0\Gerenciar-Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Alunos\OneDrive\Documentos\GitTheo\Gerenciamento-Biblioteca\Gerenciar-Biblioteca\obj\Debug\net8.0\Gerenciar-Biblioteca.AssemblyInfo.cs
+C:\Users\Alunos\OneDrive\Documentos\GitTheo\Gerenciamento-Biblioteca\Gerenciar-Biblioteca\obj\Debug\net8.0\Gerenciar-Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\OneDrive\Documentos\GitTheo\Gerenciamento-Biblioteca\Gerenciar-Biblioteca\obj\Debug\net8.0\Gerenciar-Biblioteca.sourcelink.json
+C:\Users\Alunos\OneDrive\Documentos\GitTheo\Gerenciamento-Biblioteca\Gerenciar-Biblioteca\obj\Debug\net8.0\Gerenciar-Biblioteca.dll
+C:\Users\Alunos\OneDrive\Documentos\GitTheo\Gerenciamento-Biblioteca\Gerenciar-Biblioteca\obj\Debug\net8.0\refint\Gerenciar-Biblioteca.dll
+C:\Users\Alunos\OneDrive\Documentos\GitTheo\Gerenciamento-Biblioteca\Gerenciar-Biblioteca\obj\Debug\net8.0\Gerenciar-Biblioteca.pdb
+C:\Users\Alunos\OneDrive\Documentos\GitTheo\Gerenciamento-Biblioteca\Gerenciar-Biblioteca\obj\Debug\net8.0\Gerenciar-Biblioteca.genruntimeconfig.cache
+C:\Users\Alunos\OneDrive\Documentos\GitTheo\Gerenciamento-Biblioteca\Gerenciar-Biblioteca\obj\Debug\net8.0\ref\Gerenciar-Biblioteca.dll
